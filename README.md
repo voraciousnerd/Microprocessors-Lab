@@ -10,21 +10,24 @@
 
 ## 📂 Laboratory Exercises Outline
 
-### Lab 1: AVR Assembly & I/O Basics
+### 1. AVR Assembly & GPIO Basics
 
-### Lab 2: External Interrupts & Debouncing
+### 2. External Interrupts & Software Debouncing
 
-### Lab 3: Timers, PWM & ADC
+### 3. Timers, PWM & ADC
 
-### Lab 4: 2x16 LCD Character Display
+### 4. 2x16 LCD Character Display
 
-### Lab 5: TWI Bus Integration ($I^2C$) & PCA9555 IC Port Expansion
+### 5. TWI Bus Integration ($I^2C$) & PCA9555 IC Port Expansion
 
-### Lab 6: 4x4 Keypad 
+### 6. 4x4 Keypad Matrix Interface
 
-### Lab 7: 1-Wire Protocol & Temperature Sensing
+### 7. 1-Wire Protocol & Temperature Sensing
 
-### Lab 8: IoT Hospital Application: UART, ESP8266, Sensors
+### 8. IoT Hospital Monitoring Application  
+   - UART Communication  
+   - ESP8266 Wi-Fi Module  
+   - Sensors  
 
 ## ⚠️ Disclaimer
-This repository is intended for personal portfolio showcasing and educational reference. If you are a student, please use this resource responsibly.
+This repository is intended for personal experience showcasing and as an educational reference. If you are a student, please use this resource responsibly.
