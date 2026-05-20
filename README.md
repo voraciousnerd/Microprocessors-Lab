@@ -7,7 +7,6 @@
 * **Communication Protocols:** TWI ($I^2C$), 1-Wire, UART, Parallel 4-bit LCD interface
 * **IDE/Toolchain:** Microchip Studio & AVR-GCC
 
----
 
 ## 📂 Laboratory Exercises Outline
 
@@ -26,7 +25,6 @@
 ### Lab 7: 1-Wire Protocol & Temperature Sensing
 
 ### Lab 8: IoT Hospital Application: UART, ESP8266, Sensors
----
 
 ## ⚠️ Disclaimer
 This repository is intended for personal portfolio showcasing and educational reference. If you are a student, please use this resource responsibly.
