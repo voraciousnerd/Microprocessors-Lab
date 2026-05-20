@@ -1,6 +1,5 @@
 # Microprocessors Laboratory (7th Semester) @ ECE, NTUA
 
--- 
 
 ## 🛠️ Tech Stack & Architecture
 * **Hardware:** ATmega328PB Microcontroller (AVR Architecture)
@@ -16,16 +15,17 @@
 
 ### Lab 2: External Interrupts & Debouncing
 
-### Lab 3: Timers, PWM & Analog-to-Digital Conversion (ADC)
+### Lab 3: Timers, PWM & ADC
 
-### Lab 4: LCD Drivers & Digital Voltmeter
+### Lab 4: 2x16 LCD Character Display
 
-### Lab 5: TWI Bus Integration ($I^2C$)
+### Lab 5: TWI Bus Integration ($I^2C$) & PCA9555 IC Port Expansion
 
-### Lab 6: Keypad Matrix 
+### Lab 6: 4x4 Keypad 
 
-### Lab 7: 1-Wire Protocol & Thermal Sensing
+### Lab 7: 1-Wire Protocol & Temperature Sensing
 
+### Lab 8: IoT Hospital Application: UART, ESP8266, Sensors
 ---
 
 ## ⚠️ Disclaimer
