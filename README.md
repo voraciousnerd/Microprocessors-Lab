@@ -18,7 +18,7 @@
 
 ### 4. 2x16 LCD Character Display
 
-### 5. TWI Bus Integration ($I^2C$) & PCA9555 IC Port Expansion
+### 5. TWI Bus Integration ($I^2C$) & PCA9555 Port Expansion
 
 ### 6. 4x4 Keypad Matrix Interface
 
